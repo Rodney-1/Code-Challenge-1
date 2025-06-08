@@ -1,0 +1,17 @@
+# CODE-CHALLENGE-1
+
+This repository contains the Javacsript files to the following Code Challenges:
+
+## 1. bodaFareCalculator
+Located in: `./bodaFareCalculator`
+
+This calculates motorcycle (boda boda) fares based on distance traveled:
+- Basefare: KES 50 per ride
+- Fare: KES 15 per kilometer
+- User is prompted to enter distance to be traveled in kms
+- Web then generates a breakdown of the fare to be paid 
+
+## 2. chaiCalculator
+Located in: `./chaiCalculator`
+
+This calculates the ingredients required to make tea (chai)
